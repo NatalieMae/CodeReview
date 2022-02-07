@@ -30,3 +30,6 @@
   
 //   //output array with the required dataTypes
 //   console.log(purchasedCars);
+
+function isEvenOrOdd(arrOfNums) {
+    for(let i = 0; isEvenOrOdd.length)
